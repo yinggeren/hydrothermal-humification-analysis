@@ -1,0 +1,14 @@
+item,value
+hydrochar_table,data\tableS7_hydrochar_properties.csv
+soil_table,data\tableS8_soil_quality_indicators.csv
+n_records,150
+soil_indicators,pH; EC (us/cm); CEC (cmol/kg); OM (g/kg); TC (mg/g); MBC mg/g; TN (mg/g); TP (mg/g); TK (mg/g); NH4+-N (mg/g); NO3--N (mg/g); AN (mg/g); AP (mg/g); AK (mg/g)
+features,pH; C (%); N (%); P (g/kg); K (g/kg); O/C; H/C
+target,SQI
+excluded_predictor,AR (%)
+n_pcs_for_sqi,3
+n_estimators,100
+random_state,42
+training_r2,0.901343
+imputation,Mean imputation for missing predictor values
+imputation_means,pH=5.6379; C (%)=47.4031; N (%)=2.24108; P (g/kg)=12.7089; K (g/kg)=13.29; O/C=0.370112; H/C=1.24682
