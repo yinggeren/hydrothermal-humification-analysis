@@ -1,0 +1,11 @@
+scenario,pathway,expected_net_gwp
+OIS,Incineration,-244.2
+OIS,HC,-324.4
+OIS,PHC,-402.9
+EFS,Incineration,-77.5
+EFS,HC,-105.8
+EFS,PHC,-177.9
+CSS,Incineration,86.0
+CSS,HC,295.7
+CSS,PHC,223.1
+

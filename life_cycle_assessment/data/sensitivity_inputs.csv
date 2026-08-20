@@ -1,0 +1,9 @@
+parameter_varied,lower_emission_side_value,higher_emission_side_value,net_gwp_low_emission_side,net_gwp_high_emission_side,sensitivity_range_expected
+Heat-recovery efficiency,85%,40%,-269.0,4.2,273.2
+PHC carbon-stability factor,65%,35%,-277.4,-78.5,198.9
+COD-to-methane conversion,70%,20%,-199.9,-144.8,55.1
+Methane leakage,0.5%,7%,-190.4,-149.9,40.5
+Natural-gas heat factor,0.249 kg CO2-eq kWh-1,0.300 kg CO2-eq kWh-1,-177.9,-154.7,23.2
+Transport distance,50 km,150 km,-180.4,-175.4,5.0
+Grid electricity factor,0.581 kg CO2-eq kWh-1,0.750 kg CO2-eq kWh-1,-177.9,-174.5,3.4
+

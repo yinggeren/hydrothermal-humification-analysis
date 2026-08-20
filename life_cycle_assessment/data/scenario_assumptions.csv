@@ -1,0 +1,12 @@
+category,parameter,unit,OIS,EFS,CSS,reference_or_basis
+Hydrothermal pathways,Heat-recovery efficiency,%,85,70,40,"Aragon-Briceno et al. (2022); Jia et al. (2026); Wang et al. (2026)"
+Hydrothermal pathways,Anaerobic conversion of hydrothermal-liquid COD to methane,%,70,50,20,"Gaur et al. (2020); Villamil et al. (2018)"
+Hydrothermal pathways,Methane leakage from biogas handling,%,0.5,2.5,7,"Fredenslund et al. (2023); Scheutz and Fredenslund (2019)"
+Hydrothermal pathways,Carbon stability factor for HC,%,55,40,25,"Gronwald et al. (2016)"
+Hydrothermal pathways,Carbon stability factor for PHC,%,65,50,35,"Gronwald et al. (2016)"
+Shared logistics,Transport distance,km,50,100,150,Scenario boundary
+Energy factors,Grid electricity emission factor,kg CO2-eq kWh-1,0.581,0.581,0.750,Ecoinvent-based scenario factor
+Energy factors,Natural-gas heat emission factor,kg CO2-eq kWh-1,0.249,0.249,0.300,Ecoinvent-based scenario factor
+Incineration pathway,Net electricity export from direct incineration,kWh t-1,682,450,200,"Bressan et al. (2022); Singh et al. (2020)"
+Incineration pathway,Direct emissions from direct incineration,kg CO2-eq t-1,150,180,230,"IPCC (2006); scenario stress range"
+

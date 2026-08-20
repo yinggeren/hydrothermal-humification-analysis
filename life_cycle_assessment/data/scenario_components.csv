@@ -1,0 +1,35 @@
+scenario,pathway,component_group,component_name,component_value_kg_co2eq_per_t,notes
+OIS,HC,Debit,Transport and pretreatment,2.0,Table S11
+OIS,HC,Debit,Electricity,13.4,Stirring and separation
+OIS,HC,Debit,Thermal energy,0.0,Residual heat fully offset by usable methane heat
+OIS,HC,Debit,Process-gas emissions,22.0,HTC process gas emissions
+OIS,HC,Debit,Methane leakage,4.1,AD biogas handling
+OIS,HC,Credit,Mineral fertilizer offset,-8.7,N P K fertilizer displacement
+OIS,HC,Credit,Soil carbon sequestration,-357.2,0.6 t hydrochar x 29.52% C x 44/12 x 55%
+OIS,PHC,Debit,Transport and pretreatment,4.3,Table S11
+OIS,PHC,Debit,Electricity,9.9,Stirring and separation
+OIS,PHC,Debit,Thermal energy,0.0,Residual heat fully offset by usable methane heat
+OIS,PHC,Debit,Process-gas emissions,22.0,HTC process gas emissions
+OIS,PHC,Debit,Methane leakage,3.9,AD biogas handling
+OIS,PHC,Credit,Mineral fertilizer offset,-12.1,N P K fertilizer displacement
+OIS,PHC,Credit,Soil carbon sequestration,-430.9,0.6 t hydrochar x 30.13% C x 44/12 x 65%
+OIS,Incineration,Debit,Transport,2.0,Feedstock transport
+OIS,Incineration,Debit,Direct emissions,150.0,Direct incineration emissions
+OIS,Incineration,Credit,Net electricity export,-396.2,682 kWh t-1 x grid factor
+EFS,HC,Debit,Total debits,163.2,Enterprise-feasible scenario aggregate debit
+EFS,HC,Credit,Mineral fertilizer offset,-8.7,N P K fertilizer displacement
+EFS,HC,Credit,Soil carbon sequestration,-260.3,Carbon stability factor 40%
+EFS,PHC,Debit,Total debits,289.9,Enterprise-feasible scenario aggregate debit
+EFS,PHC,Credit,Mineral fertilizer offset,-12.1,N P K fertilizer displacement
+EFS,PHC,Credit,Soil carbon sequestration,-455.7,Carbon stability factor 50% plus scenario energy credits
+EFS,Incineration,Debit,Transport and direct emissions,180.0,Scenario direct-emission debit
+EFS,Incineration,Credit,Net electricity export,-257.5,450 kWh t-1 x grid factor plus rounding
+CSS,HC,Debit,Total debits,466.2,Conservative stress scenario aggregate debit
+CSS,HC,Credit,Mineral fertilizer offset,-8.7,N P K fertilizer displacement
+CSS,HC,Credit,Soil carbon sequestration,-161.8,Carbon stability factor 25%
+CSS,PHC,Debit,Total debits,422.5,Conservative stress scenario aggregate debit
+CSS,PHC,Credit,Mineral fertilizer offset,-12.1,N P K fertilizer displacement
+CSS,PHC,Credit,Soil carbon sequestration,-187.3,Carbon stability factor 35% plus scenario energy effects
+CSS,Incineration,Debit,Transport and direct emissions,236.0,Scenario direct-emission debit and transport
+CSS,Incineration,Credit,Net electricity export,-150.0,200 kWh t-1 x grid factor
+
