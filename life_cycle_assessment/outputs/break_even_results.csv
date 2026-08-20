@@ -1,0 +1,6 @@
+assumed_carbon_stability_factor_percent,minimum_heat_recovery_percent,other_assumptions,interpretation
+20,73.5,EFS conditions,Very low carbon stability requires high heat recovery
+25,68.0,EFS conditions,Low carbon stability narrows the climate-benefit margin
+35,57.1,EFS conditions,CSS carbon stability requires strengthened heat recovery
+50,40.7,EFS conditions,EFS carbon stability can remain net negative with moderate heat recovery
+65,24.3,EFS conditions,OIS carbon stability gives a wider operating margin

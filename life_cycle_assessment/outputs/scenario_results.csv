@@ -1,0 +1,10 @@
+scenario,pathway,component_value_kg_co2eq_per_t
+CSS,HC,295.7
+CSS,Incineration,86.0
+CSS,PHC,223.1
+EFS,HC,-105.80000000000001
+EFS,Incineration,-77.5
+EFS,PHC,-177.90000000000003
+OIS,HC,-324.4
+OIS,Incineration,-244.2
+OIS,PHC,-402.9

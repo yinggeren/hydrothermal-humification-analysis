@@ -1,0 +1,7 @@
+LCA reproduction checks passed.
+Scenario rows checked: 9
+Sensitivity rows checked: 7
+Break-even rows checked: 5
+Monte Carlo mean: -127.6 kg CO2-eq t-1
+Monte Carlo 95% interval: -264.0 to 24.0 kg CO2-eq t-1
+Net-negative probability: 94.9%
