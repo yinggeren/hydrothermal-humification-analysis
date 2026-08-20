@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Life-cycle assessment calculations for hydrothermal humification pathways"
+message: "If you use this code or dataset, please cite the associated manuscript."
+authors:
+  - family-names: "Ying"
+    given-names: "Geren"
+repository-code: "https://github.com/yinggeren/hydrothermal-humification-analysis"
+version: "1.0.0"
+date-released: "2026-08-20"
+
