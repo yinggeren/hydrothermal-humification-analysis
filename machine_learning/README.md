@@ -12,7 +12,7 @@ data/
   tableS8_soil_quality_indicators.csv
   sqi_dataset_for_random_forest.csv
 scripts/
-  random_forest_sqi_no_ar.py
+  random_forest_sqi.py
 outputs/
   fig5c_feature_importance.csv
   fig5c_feature_importance.svg
